@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi I'm Lucas!👋
+
+- 🎓 Currently Studying Computer Science at the University of Edinburgh
+
+- 👾 Interested in Competitive Programming & Machine Learning 
+
+- 📙 Using Java & C++
+
+- 🐍 Learning Python
+
+
+
+
 
 <!--
 **wryzxec/wryzxec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
