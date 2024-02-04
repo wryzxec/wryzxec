@@ -8,7 +8,7 @@
 
 - 🐍 Learning Python
 
-- 💻 Working on voice_bot
+- 💻 Working on Vocal_Bot
 
 
 <!--
