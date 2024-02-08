@@ -2,7 +2,7 @@
 
 - 🎓 Currently Studying Computer Science at the University of Edinburgh
 
-- 👾 Interested in Competitive Programming & Machine Learning & Hackathons
+- 👾 Interested in Competitive Programming & Machine Learning
 
 - 📙 Using Java & C++
 
