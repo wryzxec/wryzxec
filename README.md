@@ -8,8 +8,6 @@
 
 - 🐍 Learning Python
 
-- 💻 Working on Vocal_Bot
-
 
 <!--
 **wryzxec/wryzxec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
