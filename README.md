@@ -1,6 +1,6 @@
 ### Hi I'm Lucas!👋
 
-- 🎓 Currently Studying Computer Science at the University of Edinburgh
+- 🎓 Currently Studying Computer Science at The University of Edinburgh
 
 - 👾 Interested in Competitive Programming & Machine Learning
 
