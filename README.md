@@ -1,8 +1,7 @@
 ### Hi I'm Lucas!👋
 
-- 🎓 Currently Studying Computer Science at The University of Edinburgh
-
-- 👾 Interested in Competitive Programming & Machine Learning
+- 🎓 Currently Studying Computer Science and Mathematics at The University of Edinburgh
+- 🌐 I document projects on my website [**HERE**](https://wryzxec.github.io/)
 
 <!--
 **wryzxec/wryzxec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
