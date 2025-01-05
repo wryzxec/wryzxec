@@ -1,7 +1,7 @@
 ### Hi I'm Lucas!👋
 
-- 🎓 Currently Studying Computer Science and Mathematics at The University of Edinburgh
-- 🌐 I document projects on my website [**HERE**](https://wryzxec.github.io/)
+- 🎓 CS & Maths @ The University of Edinburgh
+- 🌐 My Website [**wryzxec.github.io**](https://wryzxec.github.io/)
 
 <!--
 **wryzxec/wryzxec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
