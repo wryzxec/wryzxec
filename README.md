@@ -1,1 +1,1 @@
-CS & Maths & Uni of Edinburgh
+CS & Maths at Uni of Edinburgh
